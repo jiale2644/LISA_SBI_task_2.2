@@ -1,0 +1,4 @@
+amplitude 0 sgwb
+tilt 1 sgwb
+tm 2 noise
+oms 3 noise

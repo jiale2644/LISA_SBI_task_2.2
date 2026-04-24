@@ -1,0 +1,6 @@
+04/24/2026 10:02:19 PM | INFO: Observation loaded and saved in ../sgwb_powerlaw/observation_sgwb_powerlaw
+04/24/2026 10:02:19 PM | INFO: Starting simulations for round 1
+04/24/2026 10:02:55 PM | INFO: Simulations for round 1 completed
+04/24/2026 11:08:54 PM | INFO: Training completed for round 1, checkpoint available at ../sgwb_powerlaw/trainer_sgwb_powerlaw_R1\epoch=27_val_loss=-2.98_train_loss=-3.13_R1.ckpt
+04/24/2026 11:09:09 PM | INFO: Logratios saved for round 1
+04/24/2026 11:09:09 PM | INFO: Completed round 1
